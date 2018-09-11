@@ -19,7 +19,7 @@
       <p>More text about it</p>
     </div>
     
-    <div class="section-2">
+  <div class="section-2">
       <!-- This is a comment that won't appear on the page -->
     </div>
   </div>
