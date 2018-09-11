@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    
   <meta charset="utf-8">
   <title>Keyboard Services</title>
-  
 </head>
 <body>
   <div class="header">
-    <h1>At Boom Clack, we try to offer top quality, affordable keyboard services.</h1>
+    <h1>At Boom Clack, we do our best to offer top quality, affordable keyboard services.</h1>
   </div>
   
   <div class="main-body">
@@ -20,7 +18,11 @@
         <li>Switch Films</li>
         <li>Spring Swapping</li>
         <li>Various other mods, just ask</li>
-        </ul>
+      </ul>
+      <p>Price for lubing is $0.5 per switch, unless bundled with a board. That includes any modifications done as well.</p>
+      <hr>
+      <h2>Keyboard Services</h2>
+        <p> Soldering + Desoldering</p>
     </div>
     
   <div class="section-2">
