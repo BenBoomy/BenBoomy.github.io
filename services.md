@@ -7,6 +7,7 @@
 <body>
   <div class="header">
     <h1>At Boom Clack, we do our best to offer top quality, affordable keyboard services.</h1>
+    <p>Note: bundling services (lubing + soldering / soldering + desoldering) nets a 10% discount on the total price.</p>
   </div>
   
   <div class="main-body">
@@ -22,7 +23,22 @@
       <p>Price for lubing is $0.5 per switch, unless bundled with a board. That includes any modifications done as well.</p>
       <hr>
       <h2>Keyboard Services</h2>
-        <p> Soldering + Desoldering</p>
+      <p>Adding LEDs to a build is a flat rate of $10.</p>
+      <p>Soldering is done with my Weller WLC100 station (until I get enough funds to upgrade), and leaded 63/37 solder. The lead inside is not a safety concern, just makes my job easier. On hand for desoldering is my trusty "Big Blue".</p>
+      <p>Soldering Pricing:</p>
+      <ul>
+        <li>40% or under: $20</li>
+        <li>60-65%: $25</li>
+        <li>75%/TKL: $35</li>
+        <li>Fullsize: $40</li>
+      </ul>
+      <p>Desoldering Pricing:</p>
+      <ul>
+        <li>40% or under: $13</li>
+        <li>60-65%: $16.5</li>
+        <li>75%/TKL: $23</li>
+        <li>Fullsize: $28</li>
+      </ul>
     </div>
     
   <div class="section-2">
@@ -31,7 +47,7 @@
   </div>
   
   <div class="footer">
-    <h5>Footer</h5>
+    <h5>All prices are subject to chance without notice. Boom Clack is not responsible for any damage caused during shipping.</h5>
   </div
 </body>
 </html>
